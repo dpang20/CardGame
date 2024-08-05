@@ -1,0 +1,23 @@
+.hidden{
+    display: none;
+}
+
+.hand {
+    display: flex;
+    justify-content: center; /* Horizontally center the cards */
+    align-items: center; /* Vertically center the cards (if needed) */
+    margin-bottom: 10px;
+    padding: 5px;
+    overflow-x: auto; /* Allows horizontal scrolling for overflow */
+}
+
+.card {
+    border: 1px solid black;
+    padding: 10px;
+    margin: 5px; /* Spacing between cards */
+    text-align: center;
+    width: 60px;
+    height: 100px;
+    background-color: white;
+    box-shadow: 0 2px 4px rgba(0,0,0,0.2);
+}

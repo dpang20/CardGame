@@ -1,0 +1,14 @@
+{
+  "name": "homework05-dpang20",
+  "version": "1.0.0",
+  "description": "homework05-dpang20 created by GitHub Classroom",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "epxress": "^0.0.1-security"
+  }
+}
